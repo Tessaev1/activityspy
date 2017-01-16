@@ -1,0 +1,7 @@
+--------- beginning of system
+--------- beginning of crash
+--------- beginning of main
+01-16 13:13:22.091  2691  2691 I MainActivity: onStart event fired
+01-16 13:18:52.914  2691  2691 E MainActivity: We're going down, Captain!
+01-16 13:21:23.639  2691  2691 I MainActivity: onStart event fired
+01-16 13:43:46.454  2691  2691 I MainActivity: onStart event fired

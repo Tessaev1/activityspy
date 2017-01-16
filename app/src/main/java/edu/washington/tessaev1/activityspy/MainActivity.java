@@ -17,12 +17,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart(){
         super.onStart();
-        Log.I(TAG, "onStart event fired");
+        Log.i(TAG, "onStart event fired");
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.E(TAG, "We're going down, Captain!");
+        Log.e(TAG, "We're going down, Captain!");
     }
 }
